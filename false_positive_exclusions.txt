@@ -1,15 +1,13 @@
 APClips
 Archive.org
-Carbonmade
 Code Snippet Wiki
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LiveJournal
-LushStories
-Minecraft
+OurDJTalk
 PocketStars
 Realmeye
 Reddit
@@ -19,6 +17,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 mercadolivre
