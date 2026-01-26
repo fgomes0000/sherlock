@@ -8,7 +8,6 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Motherless
 PocketStars
 Realmeye
 Reddit
@@ -25,4 +24,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
