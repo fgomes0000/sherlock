@@ -1,20 +1,20 @@
 APClips
 Archive.org
 Code Snippet Wiki
-DEV Community
 DeviantArt
 Fandom
+Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LiveJournal
+LessWrong
 LushStories
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
@@ -24,6 +24,7 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
+eintracht
 mercadolivre
 opennet
 phpRU
