@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Codolio
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -13,6 +14,7 @@ Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
@@ -21,6 +23,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
