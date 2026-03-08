@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Carbonmade
 Codolio
 DeviantArt
 GNOME VCS
@@ -8,6 +9,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LushStories
 Patched
 PocketStars
 Rarible
@@ -23,6 +25,7 @@ Strava
 Trovo
 TryHackMe
 Weblate
+YandexMusic
 mercadolivre
 opennet
 phpRU
