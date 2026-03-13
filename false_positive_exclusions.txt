@@ -23,6 +23,8 @@ Spotify
 Strava
 TryHackMe
 Weblate
+YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
