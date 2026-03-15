@@ -5,12 +5,16 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -28,3 +32,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
