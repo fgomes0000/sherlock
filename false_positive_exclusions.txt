@@ -1,14 +1,18 @@
 7Cups
 APClips
 Archive.org
+BoardGameGeek
 Codolio
 Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
+LiveJournal
 LushStories
+Minecraft
 Patched
 PocketStars
 Rarible
@@ -22,6 +26,7 @@ Splice
 Spotify
 TryHackMe
 Weblate
+Wordnik
 YandexMusic
 interpals
 mercadolivre
