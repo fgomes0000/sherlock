@@ -1,5 +1,6 @@
 7Cups
 APClips
+Apple Discussions
 Archive.org
 Bandcamp
 Codolio
@@ -11,6 +12,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
 Pornhub
@@ -25,6 +27,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 interpals
@@ -32,4 +35,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
