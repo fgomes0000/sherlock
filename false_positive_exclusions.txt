@@ -12,7 +12,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
+OurDJTalk
 Patched
 PocketStars
 Pornhub
@@ -27,11 +27,14 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
+Wordnik
 YandexMusic
+dailykos
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
+xHamster
