@@ -2,6 +2,7 @@
 APClips
 Apple Discussions
 Archive.org
+Audiojungle
 Bandcamp
 Codolio
 DeviantArt
@@ -12,7 +13,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-OurDJTalk
+Minecraft
 Patched
 PocketStars
 Pornhub
@@ -28,12 +29,10 @@ Spotify
 Trovo
 TryHackMe
 Weblate
-Wordnik
 YandexMusic
 dailykos
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
