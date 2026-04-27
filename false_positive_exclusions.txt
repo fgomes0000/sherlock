@@ -4,9 +4,11 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
+CGTrader
 Codolio
 DeviantArt
 Discord.bio
+Dribbble
 GeeksforGeeks
 Giphy
 Hashnode
@@ -14,7 +16,6 @@ Hubski
 LessWrong
 LushStories
 Patched
-Python.org Discussions
 Rarible
 Realmeye
 Reddit
@@ -26,6 +27,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
