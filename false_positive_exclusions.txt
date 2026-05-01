@@ -1,7 +1,5 @@
 7Cups
-APClips
 Airliners
-Anilist
 Apple Discussions
 Archive.org
 ArtStation
@@ -14,8 +12,9 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
+LemmyWorld
 LushStories
+Outgress
 Patched
 Rarible
 Realmeye
@@ -28,6 +27,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
@@ -36,4 +36,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
