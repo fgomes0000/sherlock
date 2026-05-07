@@ -17,7 +17,6 @@ LessWrong
 LushStories
 Patched
 Pornhub
-Python.org Discussions
 Rarible
 Realmeye
 Reddit
@@ -36,6 +35,8 @@ dailykos
 igromania
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
+xHamster
