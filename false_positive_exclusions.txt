@@ -3,8 +3,9 @@ Airliners
 Apple Discussions
 Archive.org
 ArtStation
+Audiojungle
 Bandcamp
-BoardGameGeek
+CGTrader
 Codolio
 DeviantArt
 Discord.bio
@@ -13,7 +14,6 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
 LushStories
 Minecraft
 Motherless
@@ -36,7 +36,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
