@@ -16,7 +16,6 @@ Hubski
 LessWrong
 LushStories
 Minecraft
-Motherless
 Patched
 Pornhub
 Rarible
@@ -24,7 +23,6 @@ Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
