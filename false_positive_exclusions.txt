@@ -4,6 +4,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Chess
 Codolio
 Discord.bio
 Envato Forum
@@ -11,7 +12,6 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
 LushStories
 Patched
 Rarible
@@ -27,6 +27,8 @@ Spotify
 TryHackMe
 Velomania
 Weblate
+Wordnik
+YandexMusic
 authorSTREAM
 dailykos
 igromania
