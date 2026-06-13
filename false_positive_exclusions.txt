@@ -6,16 +6,18 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
-Gravatar
+GitHub
+HackenProof (Hackers)
 Hashnode
 Hubski
 LessWrong
 LushStories
+OurDJTalk
 Patched
 Rarible
 Realmeye
@@ -26,7 +28,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
