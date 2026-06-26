@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Codolio
 DeviantArt
 Discord.bio
@@ -18,9 +17,7 @@ Houzz
 Hubski
 LessWrong
 LushStories
-Minecraft
 Odysee
-Patched
 Pornhub
 Rarible
 Realmeye
@@ -31,6 +28,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -43,4 +41,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
