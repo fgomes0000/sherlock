@@ -4,10 +4,9 @@ Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
-Bandcamp
+BreachSta.rs Forum
 Codolio
-DEV Community
-DeviantArt
+Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -16,7 +15,7 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -29,7 +28,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
