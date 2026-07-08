@@ -15,8 +15,8 @@ Giphy
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
-LushStories
 Odysee
 PCGamer
 Patched
@@ -27,7 +27,6 @@ Reddit
 Replit.com
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
@@ -43,3 +42,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
