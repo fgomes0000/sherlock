@@ -5,8 +5,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
-Carbonmade
 Chatujme.cz
 Codolio
 DeviantArt
@@ -18,9 +16,11 @@ Giphy
 Hashnode
 Hubski
 Instapaper
+Itch.io
 LessWrong
 LinkedIn
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -30,13 +30,11 @@ Reddit
 Replit.com
 RocketTube
 Scribd
-Signal
 SlideShare
 Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
