@@ -8,6 +8,8 @@ Bandcamp
 Blogger
 Chatujme.cz
 Codolio
+Cracked Forum
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -18,13 +20,13 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LinkedIn
-Linktree
 LushStories
-Minecraft
 Odysee
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -38,7 +40,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
