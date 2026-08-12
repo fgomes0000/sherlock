@@ -22,6 +22,7 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -36,7 +37,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Strava
 Trakt
 Trovo
 TryHackMe
@@ -44,7 +44,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 hunting
 igromania
 interpals
@@ -52,4 +51,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
