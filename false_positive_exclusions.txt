@@ -4,6 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
+Bandcamp
 Championat
 Chatujme.cz
 Codolio
@@ -20,6 +21,7 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 Odysee
 PCGamer
 Rarible
@@ -32,6 +34,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
