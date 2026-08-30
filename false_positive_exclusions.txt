@@ -1,15 +1,12 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 Cults3D
 DeviantArt
@@ -18,23 +15,20 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+GitBook
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LinkedIn
-LushStories
+Minecraft
 Odysee
 PCGamer
-Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
 Replit.com
 ReverbNation
-RocketTube
 Scribd
 SlideShare
 Splice
@@ -55,4 +49,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
