@@ -7,6 +7,7 @@ ArtStation
 Bandcamp
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -17,12 +18,15 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LinkedIn
 LushStories
-Minecraft
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
+Pornhub
+Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -31,8 +35,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Strava
-Trakt
 Trovo
 TryHackMe
 Velomania
