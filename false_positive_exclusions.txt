@@ -5,10 +5,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 ColourLovers
 Cracked Forum
@@ -21,21 +19,22 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LinkedIn
 LushStories
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
