@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -8,12 +9,11 @@ Bandcamp
 CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Flipboard
-Framapiaf
 GeeksforGeeks
 Giphy
 Hashnode
@@ -22,10 +22,11 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Python.org Discussions
+Pornhub
 Rarible
 Realmeye
 Reddit
