@@ -36,6 +36,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Strava
 Trakt
 Trovo
 TryHackMe
@@ -53,3 +54,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
