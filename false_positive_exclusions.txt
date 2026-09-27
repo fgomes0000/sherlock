@@ -6,8 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
-BoardGameGeek
 CGTrader
 Championat
 Chatujme.cz
@@ -23,10 +21,10 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LinkedIn
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -40,10 +38,8 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
-Valorant Forums
 Velomania
 Weblate
 YandexMusic
@@ -58,4 +54,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
