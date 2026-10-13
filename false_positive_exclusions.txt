@@ -7,7 +7,6 @@ Archive.org
 ArtStation
 Bandcamp
 Blogger
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -26,6 +25,7 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -43,12 +43,12 @@ Trakt
 Trovo
 TryHackMe
 Velomania
+Venmo
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
 fixya
-fl
 hunting
 interpals
 mercadolivre
@@ -56,3 +56,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
