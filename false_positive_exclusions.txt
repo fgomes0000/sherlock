@@ -1,18 +1,18 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 CGTrader
+Carbonmade
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -24,7 +24,8 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-LushStories
+LiveJournal
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -38,7 +39,6 @@ SlideShare
 Splice
 Spotify
 Trakt
-Trovo
 TryHackMe
 Velomania
 Weblate
