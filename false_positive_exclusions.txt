@@ -7,12 +7,13 @@ Archive.org
 ArtStation
 Bandcamp
 CGTrader
-Carbonmade
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -24,16 +25,15 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-LiveJournal
-Minecraft
+LushStories
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
 Scribd
 SlideShare
 Splice
@@ -53,3 +53,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
