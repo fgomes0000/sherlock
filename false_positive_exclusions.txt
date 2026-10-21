@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blipfoto
 CGTrader
 Championat
 Chatujme.cz
@@ -13,7 +14,6 @@ ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -23,6 +23,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Jupyter Community Forum
 LinkedIn
 Linktree
 LushStories
@@ -34,6 +35,7 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 SlideShare
 Splice
@@ -46,6 +48,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
 interpals
 mercadolivre
@@ -53,4 +56,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
