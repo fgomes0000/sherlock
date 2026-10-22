@@ -6,8 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blipfoto
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -23,14 +21,15 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Jupyter Community Forum
 LinkedIn
 Linktree
 LushStories
+Minecraft
+NationStates Nation
+NationStates Region
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -48,7 +47,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 interpals
 mercadolivre
