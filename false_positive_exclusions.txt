@@ -4,8 +4,10 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+BoardGameGeek
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -18,7 +20,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LinkedIn
 Linktree
 LushStories
@@ -34,7 +35,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Tenor
 Trakt
 TryHackMe
 Vero
