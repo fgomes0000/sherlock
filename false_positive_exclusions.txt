@@ -1,11 +1,9 @@
 APClips
 Airliners
 Apple Developer
-Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -24,10 +22,11 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
+Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -47,8 +46,8 @@ fixya
 hunting
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
