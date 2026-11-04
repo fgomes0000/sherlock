@@ -1,6 +1,7 @@
 APClips
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
@@ -21,7 +22,6 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-LushStories
 Minecraft
 ObservableHQ
 Odysee
@@ -35,7 +35,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
@@ -44,6 +43,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
