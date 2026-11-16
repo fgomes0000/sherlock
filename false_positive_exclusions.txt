@@ -1,3 +1,4 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -6,7 +7,6 @@ Championat
 Chatujme.cz
 Codolio
 Cracked Forum
-DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
@@ -15,10 +15,11 @@ Hashnode
 Hubski
 Instapaper
 LinkedIn
-Minecraft
+LushStories
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -36,12 +37,11 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
+xHamster
