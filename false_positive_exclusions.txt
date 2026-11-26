@@ -2,24 +2,21 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Chatujme.cz
 Codolio
 Cracked Forum
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 GaiaOnline
 GeeksforGeeks
-GitHub
-Gravatar
 HackerNews
 Hashnode
 Hubski
 Instapaper
 LinkedIn
 Linktree
-LiveJournal
-LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -36,6 +33,7 @@ Trakt
 TryHackMe
 Velomania
 Vero
+Wikipedia
 YandexMusic
 authorSTREAM
 dailykos
